@@ -1,0 +1,5 @@
+{
+  "name": "CampusFlow",
+  "description": "A mobile-first social media app for college students with a reverse infinite scrolling feed and productivity mode.",
+  "requestFramePermissions": ["camera", "microphone", "geolocation"]
+}
